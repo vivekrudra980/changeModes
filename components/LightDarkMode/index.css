@@ -1,0 +1,27 @@
+.container {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: white;
+}
+.card {
+  padding: 40px;
+  border-radius: 12px;
+  border: solid 2px black;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}
+.light {
+  background-color: white;
+  color: black;
+}
+.button {
+  height: 36px;
+  width: 132px;
+  background-color: white;
+}
